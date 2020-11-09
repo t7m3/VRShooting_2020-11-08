@@ -378,6 +378,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   angularVelocity: 30
+--- !u!1 &1006558492 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100078, guid: f1d84cc28597f5641a3d9cbc4df7e306,
+    type: 3}
+  m_PrefabInstance: {fileID: 167806951}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1006558494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006558492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8229bd13697c8544e88b22d624f14337, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 137799350510069402, guid: 958a96157c473ed4da4c6a73526b5857,
+    type: 3}
+  gunBarrelEnd: {fileID: 1102015128}
+--- !u!4 &1102015128 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400006, guid: f1d84cc28597f5641a3d9cbc4df7e306,
+    type: 3}
+  m_PrefabInstance: {fileID: 167806951}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1453019798
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -73,6 +73,7 @@
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerShooting.cs" />
+    <Compile Include="Assets\VRShooting\Scripts\Shooter.cs" />
     <Compile Include="Assets\VRShooting\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\VRShooting\_Complete-Game\MobileInput\Scripts\CrossPlatformInputManager.cs" />
     <Compile Include="Assets\VRShooting\_Complete-Game\MobileInput\Scripts\Joystick.cs" />
