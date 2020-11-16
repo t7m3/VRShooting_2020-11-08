@@ -65,6 +65,7 @@
     <Compile Include="Assets\VRShooting\Scripts\AutoDestroy.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Bullet.cs" />
     <Compile Include="Assets\VRShooting\Scripts\CameraRotator.cs" />
+    <Compile Include="Assets\VRShooting\Scripts\Enemy.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Enemy\EnemyAttack.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Enemy\EnemyMovement.cs" />
