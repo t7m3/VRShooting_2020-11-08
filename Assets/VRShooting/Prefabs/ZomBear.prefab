@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8906900806341430248}
   - component: {fileID: 8906900806335732352}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Zombear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 8906900806331655232}
   - component: {fileID: 5319444531926640893}
   - component: {fileID: 8964415591637418682}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ZomBear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
