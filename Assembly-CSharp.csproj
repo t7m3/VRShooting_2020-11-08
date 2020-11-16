@@ -69,6 +69,7 @@
     <Compile Include="Assets\VRShooting\Scripts\Enemy\EnemyAttack.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Enemy\EnemyMovement.cs" />
+    <Compile Include="Assets\VRShooting\Scripts\EnemySpawner.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Example.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Managers\EnemyManager.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Managers\GameOverManager.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerShooting.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Shooter.cs" />
+    <Compile Include="Assets\VRShooting\Scripts\SpawnController.cs" />
     <Compile Include="Assets\VRShooting\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\VRShooting\_Complete-Game\MobileInput\Scripts\CrossPlatformInputManager.cs" />
     <Compile Include="Assets\VRShooting\_Complete-Game\MobileInput\Scripts\Joystick.cs" />
