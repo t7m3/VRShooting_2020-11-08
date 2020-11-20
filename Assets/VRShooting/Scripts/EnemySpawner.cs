@@ -23,10 +23,10 @@ public class EnemySpawner : MonoBehaviour
     public void Spawn()
     {
         // 出現中でなければ敵を出現させる
-        //if(enemy == null)
-        //{
+        if(enemy == null)
+        {
             enemy = Instantiate(enemyPrefab, transform.position, transform.rotation);
-        //}
+        }
     }
 
 }
