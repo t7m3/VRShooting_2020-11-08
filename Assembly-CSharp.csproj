@@ -78,6 +78,7 @@
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Player\PlayerShooting.cs" />
     <Compile Include="Assets\VRShooting\Scripts\RemainTimer.cs" />
+    <Compile Include="Assets\VRShooting\Scripts\Score.cs" />
     <Compile Include="Assets\VRShooting\Scripts\Shooter.cs" />
     <Compile Include="Assets\VRShooting\Scripts\SpawnController.cs" />
     <Compile Include="Assets\VRShooting\TutorialInfo\Scripts\Readme.cs" />
